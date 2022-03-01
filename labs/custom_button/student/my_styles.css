@@ -15,5 +15,9 @@ Implementa una regla para el elemento <p> considerando variantes a los siguiente
 
 */
 p {
-    font-family:'Lucida Sans'
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
 }
